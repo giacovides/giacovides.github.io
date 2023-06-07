@@ -49,7 +49,7 @@ Electric Vehicles"
 
 <p style="text-align: center"><img src="../assets/img/english_school1.jpg"></p>
 ### The English School Nicosia (2012 - 2019)
-##### A-Levels
+##### *A-Levels*
 - Mathematics - A<sup>*</sup> (594/600)
 - Further Mathematics- A<sup>*</sup> (589/600)
 - Physics - A<sup>*</sup> - Highest National Mark
