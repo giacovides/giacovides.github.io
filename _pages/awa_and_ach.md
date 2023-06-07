@@ -1,15 +1,11 @@
 ---
 layout: page
-permalink: /experience/
+permalink: /awards_and_achievements/
 title: Awards and Achievements
 description:
 nav: true
 nav_order: 4
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
 ---
 - 1/1 student selected from my department for the 2023 MIT-Imperial exchange          <small>Jan 2023<small>
 - Recipient of departmental funding by the Department of Electrical and Electronic    <small>Jul 2022<small>

@@ -18,7 +18,6 @@ nav_order: 1
 -  Final Year Project under the supervision of Dr. Mardavij Roozbehani
 titled "Reinforcement Learning for Predicting and Shaping Electricity Demand of
 Electric Vehicles"
-
 <br/><br/>
 
 ### Imperial College London (2020 - 2023)
@@ -42,7 +41,6 @@ Electric Vehicles"
 - Digital Signal Processing
 - Statistical Signal Processing and Inference
 - Electrical Energy Systems
-
 <br/><br/>
 
 ### The English School Nicosia (2012 - 2019)

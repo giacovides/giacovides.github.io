@@ -22,7 +22,6 @@ to construct NLP-based bond portfolios. These include both lexicon-based approac
 as deep-learning approaches where LLMs and GNNs will be employed.
 - To the best of our knowledge, this is the first study that uses LLMs and GNNs
 in the considered context
-
 <br/><br/>
 
 #### Imperial College London (Jul 2022 - Sep 2022)
