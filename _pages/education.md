@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<p style="text-align: center"><img src="../assets/img/mit.jpeg"></p>
 ### Massachusetts Institute of Technology (MIT) (2023 - 2024)
 
 ##### *MEng Electrical Engineering and Computer Science*  
@@ -22,7 +21,6 @@ Electric Vehicles"
 
 <br/><br/>
 
-<p style="text-align: center"><img src="../assets/img/imperial.jpeg"></p>
 ### Imperial College London (2020 - 2023)
 
 ##### *MEng Electrical and Electronic Engineering*  
@@ -47,7 +45,6 @@ Electric Vehicles"
 
 <br/><br/>
 
-<p style="text-align: center"><img src="../assets/img/english_school1.jpg"></p>
 ### The English School Nicosia (2012 - 2019)
 ##### *A-Levels*
 - Mathematics - A<sup>*</sup> (594/600)
