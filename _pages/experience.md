@@ -23,7 +23,6 @@ as deep-learning approaches where LLMs and GNNs will be employed.
 - To the best of our knowledge, this is the first study that uses LLMs and GNNs
 in the considered context
 <br/><br/>
-
 #### Imperial College London (Jul 2022 - Sep 2022)
 
 ##### *Undergraduate Research Assistant (UROP)*
