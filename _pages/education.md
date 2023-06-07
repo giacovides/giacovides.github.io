@@ -25,7 +25,7 @@ Electric Vehicles"
 
 ##### *MEng Electrical and Electronic Engineering*  
 
-##### Year 1 - 85%(Dean's List for Academic Excellence - Top 5% of cohort)
+##### Year 1 - 85% (Dean's List for Academic Excellence - Top 5% of cohort)
 - Programming for Engineers
 - Mathematics for Engineers 1 (Calculus I-III, Linear Algebra I)
 - Digital Electronics and Computer Architecture
@@ -42,3 +42,10 @@ Electric Vehicles"
 - Digital Signal Processing
 - Statistical Signal Processing and Inference
 - Electrical Energy Systems
+
+<br/><br/>
+### The English School Nicosia (2012 - 2019)
+##### A-Levels
+- Mathematics - A<sup>*</sup> (589/600)
+- Further Mathematics- A<sup>*</sup> (592/600)
+- Physics - A<sup>*</sup> - Highest National Mark
