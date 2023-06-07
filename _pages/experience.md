@@ -24,6 +24,7 @@ as deep-learning approaches where LLMs and GNNs will be employed.
 in the considered context
 <br/>
 
+
 #### Imperial College London (Jul 2022 - Sep 2022)
 
 ##### *Undergraduate Research Assistant (UROP)*
