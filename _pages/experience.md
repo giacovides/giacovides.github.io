@@ -29,12 +29,12 @@ and filtering techniques.
 #### KIOS Research and Innovation Centre of Excellence (Jul 2021 - Sep 2021)
 
 ##### *Research Assistant*
--Part of the EU-funded [C-AVOID] (https://www.kios.ucy.ac.cy/c-avoid) project aiming to improve road
+- Part of the EU-funded [C-AVOID] (https://www.kios.ucy.ac.cy/c-avoid) project aiming to improve road
 safety by exploiting 5G networks to coordinate autonomous vehicles.
--Employed signal processing techniques/algorithms such as edge detection and Kalman filtering to
+- Employed signal processing techniques/algorithms such as edge detection and Kalman filtering to
 calculate the live distance between vehicles through perfect localization (precision of 20cm)
 using ArUco markers.
--Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
+- Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
 
 #### National Guard of Cyprus (Jul 2019 - Sep 2020)
 
