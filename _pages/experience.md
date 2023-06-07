@@ -15,7 +15,15 @@ social: false  # includes social icons at the bottom of the page
 #### Financial Signal Processing Lab, Imperial College London (Mar 2023 - Sep 2023)
 
 ##### *Undergraduate Researcher*
--
+- Implemented code in order to web-scrap automatically thousands of financial news articles
+from online sources and apply NER filtering as well as pre-processing and feature extraction.
+- Main part of the project involves performing different sentiment analysis approaches
+to construct NLP-based bond portfolios. These include both lexicon-based approaches as well
+as deep-learning approaches where LLMs and GNNs will be employed.
+- To the best of our knowledge, this is the first study that uses LLMs and GNNs
+in the considered context
+
+<br/><br/>
 
 #### Imperial College London (Jul 2022 - Sep 2022)
 
@@ -25,6 +33,7 @@ and DC/AC inverters focusing on Modular Multilevel Converters (MMC) for use in V
 - Employed several algorithms/sub-systems to improve the accuracy and robustness of the
 models including PID and PIR controllers, park PLL systems, PWM generation with dead-time
 and filtering techniques.
+<br/><br/>
 
 #### KIOS Research and Innovation Centre of Excellence (Jul 2021 - Sep 2021)
 
@@ -35,6 +44,7 @@ to coordinate autonomous vehicles.
 calculate the live distance between vehicles through perfect localization (precision of 20cm)
 using ArUco markers.
 - Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
+<br/><br/>
 
 #### National Guard of Cyprus (Jul 2019 - Sep 2020)
 
