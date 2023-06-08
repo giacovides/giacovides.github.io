@@ -7,6 +7,23 @@ importance: 1
 category: Recent
 ---
 
+In this coursework two main tasks were performed:   
+  - The first task involved using the MNIST dataset to train the models and consequently generate new numbers:
+    - A VAE was implemented with and without KL divergence loss and trained on the MNIST dataset by adjusting
+    hyperparameters such as the batch size, the optimiser and the number of epochs.
+    - A GAN model was implemented and trained on the MNIST dataset by adjusting hyperparameters such
+    as the dimensionality of the initial random sample and the number of epochs.
+    - The optimal Inception Score and MSE  of the two models were compared and linked to the qualitative
+    results obtained.
+
+ - The second task involved colouring B&W images using different models:
+   - A cGAN model was firstly trained and developed to colour the images by predicting the RGP pixel-wise
+   valies of the B&W images
+   - A UNet autoencoder trained with a MAE loss was then implemented to predict directly the RBG image
+   without any GAN based learning strategy.
+   - The quantitative results (MAE, MSE) and qualitative results of the two models were compared to
+   understand the differences between them
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
