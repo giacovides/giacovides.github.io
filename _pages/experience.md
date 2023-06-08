@@ -11,7 +11,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
+<p style="text-align: left"><img src="../assets/img/imp_resize.jpg"></p>
 #### Financial Signal Processing Lab, Imperial College London (Mar 2023 - Sep 2023)
 
 ##### *Undergraduate Researcher*
@@ -22,8 +22,7 @@ to construct NLP-based bond portfolios. These include both lexicon-based approac
 as deep-learning approaches where LLMs and GNNs will be employed.
 - To the best of our knowledge, this is the first study that uses LLMs and GNNs
 in the considered context
-<br/>
-
+<br/><br/>
 
 #### Imperial College London (Jul 2022 - Sep 2022)
 
@@ -35,6 +34,7 @@ models including PID and PIR controllers, park PLL systems, PWM generation with 
 and filtering techniques.
 <br/><br/>
 
+<p style="text-align: left"><img src="../assets/img/kios_resize.png"></p>
 #### KIOS Research and Innovation Centre of Excellence (Jul 2021 - Sep 2021)
 
 ##### *Research Assistant*
@@ -45,6 +45,7 @@ calculate the live distance between vehicles through perfect localization (preci
 using ArUco markers.
 - Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
 <br/><br/>
+
 
 #### National Guard of Cyprus (Jul 2019 - Sep 2020)
 

@@ -6,7 +6,7 @@ description: Relevant Modules
 nav: true
 nav_order: 1
 ---
-
+<p style="text-align: left"><img src="../assets/img/mit_resize.png"></p>
 ### Massachusetts Institute of Technology (MIT) (2023 - 2024)
 
 ##### *MEng Electrical Engineering and Computer Science*  
@@ -20,6 +20,7 @@ titled "Reinforcement Learning for Predicting and Shaping Electricity Demand of
 Electric Vehicles"
 <br/><br/>
 
+<p style="text-align: left"><img src="../assets/img/imp_resize.jpg"></p>
 ### Imperial College London (2020 - 2023)
 
 ##### *MEng Electrical and Electronic Engineering*  
