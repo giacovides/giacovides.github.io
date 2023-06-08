@@ -44,7 +44,7 @@ Electric Vehicles"
 - Electrical Energy Systems
 <br/><br/>
 
-<p style="text-align: left"><img src="../assets/img/es_resize.png"></p>
+<p style="text-align: left"><img src="../assets/img/es_resize2.png"></p>
 ### The English School Nicosia (2012 - 2019)
 ##### *A-Levels*
 - Mathematics - A<sup>*</sup> (594/600)
