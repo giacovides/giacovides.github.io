@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Arithmetic accelerator on FPGA
-description:
+description: Coursework for 3rd Year module ELEC60011 - Digital Systems Design
 img: assets/img/board.png
-importance: 1
+importance: 3
 category: Recent
 ---
-This project was done as part of the "Digital Systems Design" module in Year 3 in teams of 2. The project focused
-on the acceleration of computationally intensive applications through the design and implementation of customised
-hardware blocks on an FPGA, taking into account the tradeoff between latency and resource utilisation.
+The project focused on the acceleration of computationally intensive applications through the design and implementation of customised hardware blocks on an FPGA, taking into account the tradeoff between latency and resource utilisation.
 
 In the project, we firstly explored how an off-chip memory is essential in order to perform calculations with large
 memory requirements. The computation was then accelerated firstly through the use of embedded multipliers. This was

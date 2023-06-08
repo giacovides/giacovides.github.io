@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Analogue Musical Synthesiser
-description:
+description: End of 1st Year Project
 img: assets/img/circuit.png
-importance: 3
+importance: 5
 category: Recent
 ---
 
