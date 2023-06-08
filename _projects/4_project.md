@@ -6,7 +6,17 @@ img: assets/img/RNN.png
 importance: 2
 category: Recent
 ---
-
+In this coursework three main tasks were performed:
+  - **RNN regression**: Implemented a many-to-one RNN model to predict the time series for the monthly airline
+    passengers. As part of the task had to find the optimal window size for which I developed a unique solution
+    by employing the autocorrelation function.
+  - **Sentiment Analysis**: Three different models were developed in order to classify movie reviews (sentiment
+    analysis). Firstly, embedding of dimensionality 1 were employed and models with and without LSTM units were
+    trained. The GloVe embeddings were then employed along with the model using the LSTM units to classify the
+    revies. The accuracy and loss of the three models were then compared.
+  - **Text Generation**: Character-level and word-level RNN models were implemented and the temperature of each
+    was varied to understand the effect temperature has on the models. The qualitative results of the two models
+    were then compared.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
