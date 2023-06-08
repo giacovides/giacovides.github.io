@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards and Achievements
+title: Awards & Achievements
 description: In chronological order
 nav: true
-nav_order: 4
+nav_order: 5
 
 ---
 - 1/1 student selected from my department for the 2023 MIT-Imperial exchange          
