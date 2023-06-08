@@ -11,7 +11,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p style="text-align: left"><img src="../assets/img/imp_resize.jpg"></p>
+<p style="text-align: left"><img src="../assets/img/imp_resize2.png"></p>
 #### Financial Signal Processing Lab, Imperial College London (Mar 2023 - Sep 2023)
 
 ##### *Undergraduate Researcher*
@@ -46,7 +46,7 @@ using ArUco markers.
 - Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
 <br/><br/>
 
-
+<p style="text-align: left"><img src="../assets/img/army_resize.png"></p>
 #### National Guard of Cyprus (Jul 2019 - Sep 2020)
 
 ##### *Sergeant Major*

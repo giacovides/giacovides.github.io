@@ -20,7 +20,7 @@ titled "Reinforcement Learning for Predicting and Shaping Electricity Demand of
 Electric Vehicles"
 <br/><br/>
 
-<p style="text-align: left"><img src="../assets/img/imp_resize.jpg"></p>
+<p style="text-align: left"><img src="../assets/img/imp_resize2.png"></p>
 ### Imperial College London (2020 - 2023)
 
 ##### *MEng Electrical and Electronic Engineering*  
@@ -44,6 +44,7 @@ Electric Vehicles"
 - Electrical Energy Systems
 <br/><br/>
 
+<p style="text-align: left"><img src="../assets/img/es_resize.png"></p>
 ### The English School Nicosia (2012 - 2019)
 ##### *A-Levels*
 - Mathematics - A<sup>*</sup> (594/600)
