@@ -6,8 +6,8 @@ subtitle: Imperial College London
 
 profile:
   align: right
-  image:
-  image_circular: false # crops the image to make it circular
+  image: prof.jpeg
+  image_circular: true # crops the image to make it circular
   address: >
 
 
