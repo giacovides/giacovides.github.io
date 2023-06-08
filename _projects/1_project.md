@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mars Rover
-description: Click for a description!
+description: 
 img: assets/img/rover.jpeg
 importance: 1
 category: Recent
