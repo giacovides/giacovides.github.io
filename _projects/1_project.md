@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Mars Rover
-description: 
+description:
 img: assets/img/rover.jpeg
-importance: 1
+importance: 2
 category: Recent
 ---
 In a team of 7 people, implemented a rover with the main purpose being to navigate around an arena autonomously, avoid obstacles and send data to a database used to map the arena. My work mainly focused in the Energy and Drive sub-systems.

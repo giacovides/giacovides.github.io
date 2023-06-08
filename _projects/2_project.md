@@ -3,7 +3,7 @@ layout: page
 title: Analogue Musical Synthesiser
 description:
 img: assets/img/circuit.png
-importance: 2
+importance: 3
 category: Recent
 ---
 
