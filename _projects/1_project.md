@@ -12,7 +12,7 @@ For the Energy Subsystem, as 4 PV panels were to be used to power the rover, man
 - testing all possible panel configurations with 2 Buck-Boost Converters to achieve maximum power generation under certain voltage and current constraints
 - implementing an MPPT algorithm which took into account partial shading
 - developing a Battery Charge Algorithm to keep the battery within its rated voltage and prevent a battery breakdown
-- designing a State of Charge Algorithm for range estimation hence preventing the rover from not being able to return back to the charging station
+- designing a State of Charge Algorithm for range estimation hence ensuring the rover is able to return back to the charging station
 
 For the Drive Subsystem, my work focused on:
 - developing PID controllers to enable the rover to move straight and turn at the correct angle depending on the command provided by the user

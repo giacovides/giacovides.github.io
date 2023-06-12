@@ -12,7 +12,7 @@ In the project, we firstly explored how an off-chip memory is essential in order
 memory requirements. The computation was then accelerated firstly through the use of embedded multipliers. This was
 followed by designing custom floating point blocks for basic arithmetic operations (addition, subtraction, multiplication).
 Rolled and unrolled custom CORDIC blocks were then designed for calculating the cosine part of the expression, which was
-the most computational intensive part. Finally, a double input design was implemented, to maximise throughput and hence reduce latency, with minimal increase in resource utilisation.
+the most computationally intensive part. Finally, a double input design was implemented, to maximise throughput and hence reduce latency, with minimal increase in resource utilisation.
 
 Overall, between the first and last implementation, the latency decreased drastically from 142.3 seconds to 0.0994 seconds, resulting in a 99.93% decrease in latency.
 

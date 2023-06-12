@@ -17,9 +17,9 @@ In this coursework two main tasks were performed:
     results obtained.
 
  - The second task involved colouring B&W images using different models:
-   - A cGAN model was firstly trained and developed to colour the images by predicting the RGP pixel-wise
-   valies of the B&W images
-   - A UNet autoencoder trained with a MAE loss was then implemented to predict directly the RBG image
+   - A cGAN model was firstly trained and developed to colour the images by predicting the RGB pixel-wise
+   values of the B&W images
+   - A UNet autoencoder trained with a MAE loss was then implemented to predict directly the RGB image
    without any GAN based learning strategy.
    - The quantitative results (MAE, MSE) and qualitative results of the two models were compared to
    understand the differences between them
