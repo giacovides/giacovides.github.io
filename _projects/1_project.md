@@ -4,7 +4,7 @@ title: Mars Rover
 description: End of 2nd Year Project
 img: assets/img/rover.jpeg
 importance: 4
-category: End of Year
+category: End-of-Year Projects
 ---
 In a team of 7 people, implemented a rover with the main purpose being to navigate around an arena autonomously, avoid obstacles and send data to a database used to map the arena. My work mainly focused in the Energy and Drive sub-systems.
 

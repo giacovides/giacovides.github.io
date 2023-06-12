@@ -4,7 +4,7 @@ title: Recurrent Neural Networks (RNNs)
 description: Coursework for 3rd Year module ELEC60009 - Deep Learning
 img: assets/img/RNN.png
 importance: 2
-category: Machine Learning and Digital Hardware
+category: Machine Learning/Digital Hardware
 ---
 In this coursework three main tasks were performed:
   - **RNN regression**: Implemented a many-to-one RNN model to predict the time series for the monthly airline

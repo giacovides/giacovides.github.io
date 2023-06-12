@@ -4,7 +4,7 @@ title: Variational Autoencoders and Generative Adversarial Networks
 description: Coursework for 3rd Year module ELEC60009 - Deep Learning
 img: assets/img/VAE_GAN.png
 importance: 1
-category: Machine Learning and Digital Hardware
+category: Machine Learning/Digital Hardware
 ---
 
 In this coursework two main tasks were performed:   
