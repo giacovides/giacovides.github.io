@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 description: Click on the pdf icon to view my CV!
