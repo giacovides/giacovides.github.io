@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of projects - Click on them for details and pictures!
 nav: true
 nav_order: 3
-display_categories: [Recent]
+display_categories: [Machine Learning and Digital Hardware, End of Year]
 horizontal: false
 ---
 

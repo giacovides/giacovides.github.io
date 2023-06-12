@@ -4,7 +4,7 @@ title: Arithmetic accelerator on FPGA
 description: Coursework for 3rd Year module ELEC60011 - Digital Systems Design
 img: assets/img/board.png
 importance: 3
-category: Recent
+category: Machine Learning and Digital Hardware
 ---
 The project focused on the acceleration of computationally intensive applications through the design and implementation of customised hardware blocks on an FPGA, taking into account the tradeoff between latency and resource utilisation.
 

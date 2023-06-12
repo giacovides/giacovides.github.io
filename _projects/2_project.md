@@ -4,7 +4,7 @@ title: Analogue Musical Synthesiser
 description: End of 1st Year Project
 img: assets/img/circuit.png
 importance: 5
-category: Recent
+category: End of Year
 ---
 
 In a team of 3 people, designed and developed an analogue musical synthesiser with possible real-life application on LTSpice software. The synthesiser consists of a VCO capable of producing three types of waveforms (triangle, square, sine), a VCF allowing high-pass, low-pass and band-pass filtering as well as a VCAM which along with the LFO enables the user to modulate the output signal (Attack – Release (AR) enveloping and Ring Modulation).
